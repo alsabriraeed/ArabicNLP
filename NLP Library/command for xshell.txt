@@ -1,0 +1,1 @@
+ssh user@server   to connect to setver.

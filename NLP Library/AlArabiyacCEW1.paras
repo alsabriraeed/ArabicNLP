@@ -1,0 +1,11 @@
+-model	DMM
+-corpus	/nuist/scratch/wangwen/wangwen_ali/raeed/Arabic_dataset_prepared/AlArabiya/version7.1/short/AlArabiyac.txt
+-ntopics	7
+-alpha	0.1
+-beta	0.1
+-niters	1000
+-twords	10
+-name	AlArabiyacCEW1
+-initiation time	24.0
+-one iteration time	710.409
+-total time	710433.0
